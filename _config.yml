@@ -97,10 +97,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  name             : "Christopher and Lillian"
+  avatar           : "/assets/002A8566.jpg"
+  bio              : "Christopher met Lillian in graduate school. She thought he was a little stuck up, he thought she might be kind of an airhead, but they fell in love, and got a dog, and now they're getting married."
+  location         : "Jordan Village, ON"
   email            :
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
