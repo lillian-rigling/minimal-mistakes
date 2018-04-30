@@ -1,6 +1,5 @@
 ---
 layout: single
-classes: wide
 author_profile: false
 permalink: /who
 toc: true
