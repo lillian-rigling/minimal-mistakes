@@ -5,6 +5,7 @@ permalink: /who
 toc: true
 toc_label: Skip to the end?
 toc_icon: "heartbeat"
+excerpt: "A brief(ish) saga of our early days" 
 header: 
   image: /assets/Wedding Site - WHO.png
 ---
