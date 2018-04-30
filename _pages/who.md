@@ -9,7 +9,7 @@ excerpt: "A brief(ish) saga of our early days"
 header: 
   image: /assets/Wedding Site - WHO.png
 ---
-##### Though we have likely told you this story before, we guarantee you've never read it in such great detail.
+__Though we have likely told you this story before, we guarantee you've never read it in such great detail.__
 
 ## Summer 2014: Before
 
