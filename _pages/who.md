@@ -5,6 +5,7 @@ permalink: /who
 header: 
   image: /assets/Wedding Site - WHO.png
 ---
+*a brief(ish) saga of our early days*
 
 ## Summer 2014: Before
 
