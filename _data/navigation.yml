@@ -1,7 +1,7 @@
 # main links
 main:
-  #- title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "How we met"
+    url: https://www.christopherandlillian.com/who
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
