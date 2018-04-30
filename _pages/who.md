@@ -2,6 +2,9 @@
 layout: single
 author_profile: false
 permalink: /who
+toc: true
+toc_label: Skip to the end?
+toc_icon: "heartbeat"
 header: 
   image: /assets/Wedding Site - WHO.png
 ---
