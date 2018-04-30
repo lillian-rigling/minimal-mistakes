@@ -22,7 +22,7 @@ This is how they both ended up in the same lecture hall on a Saturday morning, a
 ## Fall 2014: In Student Government We Trust 
 
 > Ugh, I know that guy from undergrad. That's Christopher Hogendoorn.
-> - Olivia E. Smith
+> -Olivia E. Smith
 
 That's what Lillian's roommate said to her upon seeing Christopher at orientation. Which is why, when Lillian saw Christopher's name on a ballot running for the Vice President position on the student council, she voted for the other guy. Lillian herself was running for a Graduate Student Union representative seat. When the results were announced, they had both won their seats. 
 
