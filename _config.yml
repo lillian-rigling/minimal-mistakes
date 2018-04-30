@@ -20,7 +20,7 @@ title                    : "Christopher and Lillian Get Married"
 title_separator          : "|"
 name                     : "Lillian and Christopher"
 description              : "A website for our wedding"
-url                      : #"christopherandlillian.com"
+#url                      : # ""#
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/002A8566.jpg"
