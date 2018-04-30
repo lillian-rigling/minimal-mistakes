@@ -21,3 +21,17 @@ This is how they both ended up in the same lecture hall on a Saturday morning, a
 
 ## Fall 2014: In Student Government We Trust 
 
+> Ugh, I know that guy from undergrad. That's Christopher Hogendoorn.
+> > Olivia E. Smith
+
+That's what Lillian's roommate said to her upon seeing Christopher at orientation. Which is why, when Lillian saw Christopher's name on a ballot running for the Vice President position on the student council, she voted for the other guy. Lillian herself was running for a Graduate Student Union representative seat. When the results were announced, they had both won their seats. 
+
+At the first meeting, it was announced that the Vice President would also serve as a GSU rep, and Lillian and Christopher headed to their first GSU meeting on a cold October day. Though Lillian came in with a chip on her shoulder, she couldn't help but laugh at Christopher's whispered jokes as the meeting unfolded. Christopher noticed Lillian was working on other assigments, and assumed she was not paying attention. However, when she volunteered to be on a special grievance committee, he realized he had misjudged her. 
+
+The pair left the meeting and decided to debrief (for purely professional purposes) over doughnuts at Tim Hortons. Then, they said a very awkward goodbye. In class the following week, they waved cordially.
+
+## Winter 2015: Wearing Fancy Clothes and Chatting
+
+As time passed, Lillian and Christopher became good school-friends. They would often find themselves chatting in the student lounge or joking about their peers in a Facebook chat. During and after the holiday season, they both attended multiple social events, and each time they ended up the two most over-dressed people in the room, chatting snarkily in the corner. 
+
+But Lillian and Christopher had more serious things on their minds than dating; they wanted to fix the mess that was the Student Council. Christopher would be running for president soon (uncontested, of course.) But Lillian was inexperienced in student government, and wanted Christopher's opinion on what position to run for. She felt torn between Social Chair and Academic Affairs Chair, and, after talking through her ideas for both positions, Christopher convinced her to run for both. He was impressed; though he always enjoyed joking around with Lillian, he didn't realize that she was passionate about this work. He knew they would make a great team. 
