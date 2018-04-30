@@ -6,7 +6,7 @@ header:
   image: /assets/Wedding Site - WHO.png
 ---
 
-## Summer 2014: The Prequel
+## Summer 2014: Before
 
 In the summer of 2014, Lillian and Christopher were both fresh university graduates of the University of Toronto. Armed with degrees in the humanities (his in Classics, hers in English) they both questioned their preparation for the so-called "real world." Having spent the last 365 busy nights intermittently hunched over a keyboard or soaking up the last boozey drops of their care-free young lives, they had each somehow made time to apply for graduate programs. 
 
@@ -15,3 +15,4 @@ Christopher felt a strong pull towards Archives and Records Management. He enjoy
 This is how they both ended up in the same lecture hall on a Saturday morning, attending a non-mandatory but highly suggested orientation session at the University of Toronto Faculty of Information. 
 
 ## Fall 2014: In Student Government We Trust 
+
