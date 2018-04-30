@@ -9,7 +9,8 @@ excerpt: "A brief(ish) saga of our early days"
 header: 
   image: /assets/Wedding Site - WHO.png
 ---
-     
+######Though we have likely told you this story before, you've never see it in such great detail.
+
 ## Summer 2014: Before
 
 In the summer of 2014, Lillian and Christopher were both fresh university graduates of the University of Toronto. Armed with degrees in the humanities (his in Classics, hers in English) they both questioned their preparation for the so-called "real world." Having spent the last 365 busy nights intermittently hunched over a keyboard or soaking up the last boozey drops of their care-free young lives, they had each somehow made time to apply for graduate programs. 
