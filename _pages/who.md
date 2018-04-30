@@ -3,7 +3,7 @@ layout: single
 author_profile: false
 permalink: /who
 header: 
-  image: /assets/.jpg
+  image: /assets/Wedding Site - WHO.png
 ---
 
 ## Summer 2014: The Prequel
