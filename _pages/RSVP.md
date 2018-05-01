@@ -6,7 +6,7 @@ permalink: /RSVP
   
 
 <form action="https://formspree.io/lrigling@gmail.com"
-      method="POST" style="display: inline;">
+      method="POST" style="display: block;">
     Your name 
     <br>
       <input type="text" name="name">
