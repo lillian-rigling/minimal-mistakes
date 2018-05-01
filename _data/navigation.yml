@@ -2,8 +2,8 @@
 main:
   - title: "how we met"
     url: /who
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "wedding details"
+    url: /where
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
