@@ -14,24 +14,25 @@ permalink: /RSVP
      <br>
       <input type="email" name="_replyto"><br>
   
-
-
-Are you coming? <br>
+<fieldset> Are you coming? <br>
       <input type="radio" name="RSVP" value="yes" checked> Yes <br>
       <input type="radio" name="RSVP" value="no"> No way, José. <br>
 
-
+</fieldset>
+<fieldset>
 <br>
   Food Choice <br>
       <input type="radio" name="food" value="beef" checked> Cow meat <br>
       <input type="radio" name="food" value="chicken"> Chicken meat <br>
       <input type="radio" name="food" value="veg"> Something Vegetarian <br>
   <br>
-  
+  </fieldset>
+  <fieldset>
   
   Want to go on a tour of the wine cellar? <br>
       <input type="radio" name="wine" value="yes" checked> Yes! <br>
       <input type="radio" name="wine" value="no"> No, I'm boring <br> <br>
+  </fieldset>
   
   <input type="submit" value="Submit">
   
