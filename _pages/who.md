@@ -44,7 +44,7 @@ Christopher and Lillian both acclaimed their seats on the next year's council, a
 
 ### Snow in April 
 
-The following evening, they both attended a birthday party of another council member. The party was odd, and by the time the host started making grilled cheeses for all, Lillian had decided it was time to ditch. "I'll walk you homem," said Christopher, a chivalrous man looking for a way out of the situation. The pair walked slowly back to Lillian's apartment. It was a snowy April night, beautiful and romantic. Lillian and Christopher stood at her door chatting for ten minutes before she invited him inside. They were both getting cold. 
+The following evening, they both attended a birthday party of another council member. The party was odd, and by the time the host started making grilled cheeses for all, Lillian had decided it was time to ditch. "I'll walk you home," said Christopher, a chivalrous man looking for a way out of the situation. The pair walked slowly back to Lillian's apartment. It was a snowy April night, beautiful and romantic. Lillian and Christopher stood at her door chatting for ten minutes before she invited him inside. They were both getting cold. 
 
 They talked for hours. When Christopher noticed Lillian was falling asleep, he decided it was time to go. He wanted to ask her out or kiss her goodnight. But there was one problem; Lillian was online dating. In fact, she was already set to go on a brunch date the next morning. And though he liked Lillian and wanted the best for her, Christopher hoped the date would go south. 
 
