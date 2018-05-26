@@ -3,6 +3,8 @@ layout: single
 author_profile: false
 permalink: /details
 excerpt: "All the details you need" 
+toc: true
+toc_icon: "list-ul"
 header: 
   image: https://media.winnipegfreepress.com/images/454425.jpg
   
