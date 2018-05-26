@@ -9,7 +9,8 @@ header:
   image: https://media.winnipegfreepress.com/images/454425.jpg
   
 ---
-Christopher and Lillian will be married on Sunday, November 4, 2018 at the *Cave Spring Vineyard Retreat* in Lincoln, Ontario. A reception will follow at the *Inn on the Twenty* in Jordan Station, Ontario.<iframe src="https://www.google.com/maps/d/embed?mid=1ACo_8TfoWOWyFBcGTxdNiJ8jP69vp_p-&hl=en" width="50%" height="480" style="float:right"></iframe>
+Christopher and Lillian will be married on Sunday, November 4, 2018 at the *Cave Spring Vineyard Retreat* in Lincoln, Ontario. A reception will follow at the *Inn on the Twenty* in Jordan Station, Ontario. 
+<iframe src="https://www.google.com/maps/d/embed?mid=1ACo_8TfoWOWyFBcGTxdNiJ8jP69vp_p-&hl=en" width="50%" height="480" style="float:right"></iframe>
 
 ## Where to Stay
 
