@@ -29,7 +29,7 @@ Limited rooms are available at the *Inn on the Twenty* and the *Jordan House Hot
 
 **Coming from out of town?** The nearby town of [Niagara-on-the-Lake](https://www.niagaraonthelake.com/) has many vineyards and historical sites to explore.
 
-### After the Wedding.
+### After the Wedding
 
 The couple has reserved a block of rooms at the *Inn on the Twenty* (the reception venue) and across the street at the *Jordan House Hotel*.
 
