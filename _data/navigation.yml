@@ -3,7 +3,7 @@ main:
   - title: "how we met"
     url: /who
   - title: "wedding details"
-    url: /where
+    url: /details
   - title: "rsvp"
     url: /RSVP
   # - title: "Sample Collections"
