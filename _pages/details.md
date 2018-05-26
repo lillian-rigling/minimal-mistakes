@@ -9,7 +9,6 @@ header:
   image: /assets/Wedding site - details.png
   
 ---
-<iframe src="https://www.google.com/maps/d/embed?mid=1ACo_8TfoWOWyFBcGTxdNiJ8jP69vp_p-&hl=en" width="50%" height="200" style="float:right"></iframe>
 
 Christopher and Lillian will be married on Sunday, November 4, 2018 at the *Cave Spring Vineyard Retreat* in Lincoln, Ontario. A reception will follow at the *Inn on the Twenty* in Jordan Station, Ontario. 
 
@@ -18,6 +17,9 @@ Christopher and Lillian will be married on Sunday, November 4, 2018 at the *Cave
 ### Before the Wedding
 
 Limited rooms are available at the *Inn on the Twenty* and the *Jordan House Hotel* on the evening of Saturday, November 3, 2018. However, there are many local hotels and bed and breakfasts in the area, including:
+
+
+<iframe src="https://www.google.com/maps/d/embed?mid=1ACo_8TfoWOWyFBcGTxdNiJ8jP69vp_p-&hl=en" width="50%" height="200" style="padding:1px;border:1px solid black;float:right"></iframe>
 
 * [Ramada by Wyndham Jordan/Beacon Harbourside Resort](https://www.wyndhamhotels.com/ramada/jordan-station-ontario/ramada-jordan-beacon-harbourside-resort/overview?CID=LC:RA::GGL:RIO:National:47028&iata=00065402): A larger hotel (approximately 12 minutes by car from the ceremony location).
 * [Coach House at Jordan Station](http://coachhousejordan.ca/): A local bed and breakfast (approximately 11 minutes by car from the ceremony location).
