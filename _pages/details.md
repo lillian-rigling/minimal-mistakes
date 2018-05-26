@@ -13,9 +13,9 @@ Christopher and Lillian will be married at the Cave Spring Vineyard Retreat in L
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1ACo_8TfoWOWyFBcGTxdNiJ8jP69vp_p-&hl=en" width="100%" height="480"></iframe>
 
-# Where to Stay
+## Where to Stay
 
-## Before the Wedding
+### Before the Wedding
 
 Limited rooms are available at the *Inn on the Twenty* and the *Jordan House Hotel* on the evening of Saturday, November 3, 2018. However, there are many local hotels and bed and breakfasts in the area, including:
 
@@ -26,15 +26,14 @@ Limited rooms are available at the *Inn on the Twenty* and the *Jordan House Hot
 
 **Coming from out of town?** The nearby town of [Niagara-on-the-Lake](https://www.niagaraonthelake.com/) has many vineyards and historical sites to explore.
 
-## After the Wedding.
+### After the Wedding.
 
 The couple has reserved a block of rooms at the *Inn on the Twenty* (the reception venue) and across the street at the *Jordan House Hotel*.
 
 [Reserve using code](https://innonthetwenty.com/) `3001259`.
 
 
-
-# Flying in?
+## Flying in?
 <i class="fas fa-plane"></i> **From the United States:** The Buffalo International Airport in Buffalo, NY is approximately one hour by car from Jordan Station.
 
 <i class="fas fa-plane"></i> **Within Canada:** The Pearson International Airport in Toronto, ON is approximately one hour by car from Jordan Station. 
