@@ -30,11 +30,12 @@ The couple has reserved a block of rooms at the *Inn on the Twenty* (the recepti
 
 [Reserve using code](https://innonthetwenty.com/) `3001259`.
 
-<i class="fas fa-plane"></i>
+
 
 # Flying in?
-**From the United States:** The Buffalo International Airport in Buffalo, NY is approximately one hour by car from Jordan Station.
-**Within Canada:** The Pearson International Airport in Toronto, ON is approximately one hour by car from Jordan Station. 
+<i class="fas fa-plane"></i> **From the United States:** The Buffalo International Airport in Buffalo, NY is approximately one hour by car from Jordan Station.
+
+<i class="fas fa-plane"></i> **Within Canada:** The Pearson International Airport in Toronto, ON is approximately one hour by car from Jordan Station. 
 
 <center>
   No car? Please get in touch with Christopher or Lillian and we will try to match you with a family member or friend who can help transport you to and from the wedding! </center>
