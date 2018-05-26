@@ -6,7 +6,7 @@ excerpt: "All the details you need"
 toc: true
 toc_icon: "list-ul"
 header: 
-  image: https://www.google.com/maps/d/embed?mid=1ACo_8TfoWOWyFBcGTxdNiJ8jP69vp_p-&hl=e 
+  image: /assets/Wedding site - details.png
   
 ---
 <iframe src="https://www.google.com/maps/d/embed?mid=1ACo_8TfoWOWyFBcGTxdNiJ8jP69vp_p-&hl=en" width="50%" height="200" style="float:right"></iframe>
@@ -40,5 +40,3 @@ The couple has reserved a block of rooms at the *Inn on the Twenty* (the recepti
 
 <center>
   No car? Please get in touch with Christopher or Lillian and we will try to match you with a family member or friend who can help transport you to and from the wedding! </center>
-
-<--! https://media.winnipegfreepress.com/images/454425.jpg -->
