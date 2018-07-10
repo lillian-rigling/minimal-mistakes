@@ -6,6 +6,8 @@ main:
     url: /details
   - title: "rsvp"
     url: /RSVP
+  - title: "registry"
+    url: /registry
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
