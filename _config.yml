@@ -19,7 +19,7 @@ locale                   : "en-CA"
 title                    : "Christopher and Lillian Get Married"
 title_separator          : "|"
 name                     : "Lillian and Christopher"
-description              : "A website for our wedding"
+description              : "Meet the Hogendoorns: November 4, 2018"
 #url                      : # ""#
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
