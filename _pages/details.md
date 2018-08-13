@@ -32,7 +32,7 @@ There are also many local hotels and bed and breakfasts in the area, including:
 ## Getting Here
 
 ### Driving & Parking
-The *Inn on the Twenty* is a short drive through wine country from the QEW. There is ample free parking available at the Inn. On the day of the wedding, there will be signs directing guests to the *Cave Spring Vineyard Retreat*.
+The *Inn on the Twenty* is a short drive through wine country from the QEW. There is ample free parking available at the Inn. On the day of the wedding, there will be signs directing guests to the *Cave Spring Vineyard Retreat*. There is ample parking a short walk from the retreat building.
 
 ### Flying in?
 <i class="fas fa-plane"></i> **From the United States:** The Buffalo International Airport in Buffalo, NY is approximately one hour by car from Jordan Station.
@@ -41,3 +41,13 @@ The *Inn on the Twenty* is a short drive through wine country from the QEW. Ther
 
 <center>
   No car? Please get in touch with Christopher or Lillian and we will try to match you with a family member or friend who can help transport you to and from the wedding! </center>
+
+## Schedule of Events
+Sunday, November 4, 2018
+* 2:00 PM: Arrive at *Cave Spring Vineyard Retreat*
+* 2:10 PM - 3:00 PM: Ceremony
+* 3:00 PM - 5:00 PM: Travel to *Inn on the Twenty*
+  * Optional: Attend a wine tasting at the Cave Spring Wine Store, sample local beers at the Bench Brewing Company, Visit the Jordan Art Gallery, or explore the vineyard.
+* 5:00 PM - 6:00 PM: Cocktail hour at the *Inn on the Twenty*
+* 6:30 PM - 8:30 PM: Dinner and toasts
+* 8:30 PM - 11:30 PM: After-dinner drinks, dancing, and snacks.
