@@ -3,4 +3,4 @@ layout: single
 author_profile: false
 permalink: /registry      
 ---
-Due to the hustle and bustle of every day life, Christopher and Lillian have not yet registered. Come back soon.
+<br><script id='script_myregistry_giftlist_iframe' type='text/javascript' src='//www.myregistry.com//Visitors/GiftList/iFrames/EmbedRegistry.ashx?r=kWGn5I8L8sXKN8S1EhGItQ2&v=2'></script>
